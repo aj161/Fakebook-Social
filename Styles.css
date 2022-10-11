@@ -183,9 +183,18 @@ footer a {
   color:#F6F7F1;
 }
 
+footer a:visited{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0.15em;
+  color:#d6d1c5;
+}
+
 footer ul li {
   text-decoration: none;
 }
+
 
 /*footer style end*/
 
@@ -289,7 +298,7 @@ footer ul li {
   footer{
     position:absolute;
     top: 2100px;
-    height:280px;
+    height:300px;
 }
 
 footer ul {
